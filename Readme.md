@@ -44,7 +44,23 @@ The project consists of three main components:
 - take the video folder and train the videos
 - clone the starting the model folder from their original repo     https://github.com/jackhanyuan/GaitRecognitionSystem
 
-### 4. Assets (`assets-logo,ppt,demo-video...`)
+### 4. MoveMark Mobile App (`movemark-app/`)
+- Built with Flutter
+- Native mobile application for Android and iOS
+- Features:
+  - Attendance confirmation
+  - Filter Attendance by day
+  - Employee leave management
+  - Leave request submission
+  - Leave status tracking
+  - Push notifications
+- Key components:
+  - Cross-platform mobile UI
+  - Secure API integration
+  - Local data persistence
+
+
+### 5. Assets (`assets-logo,ppt,demo-video...`)
 - Project documentation
 - Presentation materials
 - Demo videos
